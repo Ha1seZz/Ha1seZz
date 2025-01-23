@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/Ha1seZz">
     <img
-      src="https://komarev.com/ghpvc/?username=Ha1seZz"
+      src="https://komarev.com/ghpvc/?username=Ha1seZz&style=plastic"
       alt="Profite views Badge"
     />
   </a>
