@@ -1,3 +1,4 @@
+<!-- Profile views Badge -->
 <div align="center">
   <a href="https://github.com/Ha1seZz">
     <img
@@ -6,7 +7,7 @@
     />
   </a>
 </div>
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=madushadhanushka.madushadhanushka)
+
 <div align="center">
   <!-- LeetCode Badge -->
   <a href="https://leetcode.com/Ha1seZz/">
