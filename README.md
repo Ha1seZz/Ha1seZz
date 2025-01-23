@@ -1,8 +1,13 @@
 <div align="center">
   <!-- LeetCode -->
-  <img src="https://leetcard.jacoblin.cool/Ha1seZz?theme=transparent&font=Montserrat&ext=contest&width=495&height=190" alt="LeetCode"/>
+  <a href="https://leetcode.com/u/Ha1seZz/">
+    <img src="https://leetcard.jacoblin.cool/Ha1seZz?theme=transparent&font=Montserrat&ext=contest&width=495&height=190" alt="LeetCode"/>
+  </a>
+
   <!-- WakaTime -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ha1seZz&theme=transparent&layout=compact" alt="WakaTime"/>
+  <a href="https://wakatime.com/@Ha1seZz">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ha1seZz&theme=transparent&layout=compact" alt="WakaTime"/>
+  </a>
 </div>
 
 <!-- Profile views Badge -->
