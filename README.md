@@ -12,7 +12,7 @@
   <!-- LeetCode Badge -->
   <a href="https://leetcode.com/Ha1seZz/">
     <img
-      src="https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=000000&label=Ha1seZz&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FHa1seZz&logo=leetcode&logoColor=yellow"
+      src="https://img.shields.io/badge/-LeetCode-000000?style=plastic&logo=LeetCode&logoColor=black"
       alt="LeetCode Badge"
     />
   </a>
