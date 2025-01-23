@@ -15,7 +15,7 @@
   </a>
 </div>
 
-<!-- Streak stats (Dark mode) -->
+<!-- Streak stats -->
 <div align="center">
   <a href="https://github.com/Ha1seZz#gh-dark-mode-only">
     <img
@@ -25,22 +25,12 @@
   </a>
 </div>
 
+<!-- WakaTime Stats -->
 <div align="center">
-  <!-- WakaTime Stats -->
   <a href="https://wakatime.com/@Ha1seZz">
     <img
       src="https://github-readme-stats.vercel.app/api/wakatime?username=Ha1seZz&theme=transparent&layout=compact"
       alt="WakaTime stats"
-      style="width: 400px; height: auto;"
-    />
-  </a>
-  
-  <!-- GitHub Stats -->
-  <a href="https://github.com/Ha1seZz#gh-dark-mode-only">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Ha1seZz&theme=transparent"
-      alt="GitHub stats"
-      style="width: 400px; height: auto;"
     />
   </a>
 </div>
