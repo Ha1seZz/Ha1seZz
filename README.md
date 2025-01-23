@@ -27,7 +27,7 @@
 
 <div align="center">
   <!-- WakaTime Stats -->
-  <a href="https://github.com/Ha1seZz/github-readme-stats">
+  <a href="https://wakatime.com/@Ha1seZz">
     <img
       src="https://github-readme-stats.vercel.app/api/wakatime?username=Ha1seZz&theme=transparent&layout=compact"
       alt="WakaTime stats"
@@ -36,7 +36,7 @@
   </a>
   
   <!-- GitHub Stats -->
-  <a href="https://github.com/Ha1seZz/github-readme-stats">
+  <a href="https://github.com/Ha1seZz#gh-dark-mode-only">
     <img
       src="https://github-readme-stats.vercel.app/api?username=Ha1seZz&theme=transparent"
       alt="GitHub stats"
