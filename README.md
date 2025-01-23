@@ -34,3 +34,5 @@
     />
   </a>
 </div>
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5?si=71fa1a6094bd40c4)
