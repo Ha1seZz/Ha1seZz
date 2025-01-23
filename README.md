@@ -1,6 +1,8 @@
-[![LeetCode](https://leetcard.jacoblin.cool/Ha1seZz?theme=transparent&font=Montserrat&ext=contest&width=450&height=200)](https://leetcode.com/u/Ha1seZz/)
-<a href="https://wakatime.com/@Ha1seZz">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ha1seZz&layout=compact&langs_count=8"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <!-- Profile views Badge -->
