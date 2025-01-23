@@ -1,13 +1,3 @@
-<!-- Profile views Badge -->
-<div align="center">
-  <a href="https://github.com/Ha1seZz">
-    <img
-      src="https://komarev.com/ghpvc/?username=Ha1seZz&style=plastic&color=000000"
-      alt="Profite views Badge"
-    />
-  </a>
-</div>
-
 <div align="center">
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/Ha1seZz/">
@@ -16,11 +6,24 @@
       alt="LeetCode"
     />
   </a>
-  <!-- WakaTime -->
+</div>
+
+<!-- WakaTime -->
+<div align="center">
   <a href="https://wakatime.com/@Ha1seZz">
     <img
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=Ha1seZz&theme=transparent&layout=compact&width=495"
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=Ha1seZz&theme=transparent&layout=compact"
       alt="WakaTime"
+    />
+  </a>
+</div>
+
+<!-- Profile views Badge -->
+<div align="center">
+  <a href="https://github.com/Ha1seZz">
+    <img
+      src="https://komarev.com/ghpvc/?username=Ha1seZz&style=plastic&color=000000"
+      alt="Profite views Badge"
     />
   </a>
 </div>
