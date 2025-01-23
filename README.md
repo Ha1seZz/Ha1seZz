@@ -25,8 +25,6 @@
   </a>
 </div>
 
-![](https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif)
-
 <!-- Streak stats -->
 <div align="center">
   <a href="https://github.com/Ha1seZz">
