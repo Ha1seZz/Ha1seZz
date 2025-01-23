@@ -1,4 +1,7 @@
-[![LeetCode](https://leetcard.jacoblin.cool/Ha1seZz?theme=transparent&font=Montserrat&ext=contest&width=450&height=200)](https://leetcode.com/u/Ha1seZz/) [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Ha1seZz&theme=transparent&layout=compact&width=15&height=105)](https://wakatime.com/@Ha1seZz)
+[![LeetCode](https://leetcard.jacoblin.cool/Ha1seZz?theme=transparent&font=Montserrat&ext=contest&width=450&height=200)](https://leetcode.com/u/Ha1seZz/)
+<a href="https://wakatime.com/@Ha1seZz">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ha1seZz&layout=compact&langs_count=8"/>
+</a>
 
 <!-- Profile views Badge -->
 <div align="center">
