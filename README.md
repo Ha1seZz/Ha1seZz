@@ -9,7 +9,7 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ha1seZz&theme=transparent&layout=compact" alt="WakaTime"/>
   </a>
 </div>
-
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Ha1seZz)](https://wakatime.com/@Ha1seZz)
 <!-- Profile views Badge -->
 <div align="center">
   <a href="https://github.com/Ha1seZz">
