@@ -8,7 +8,22 @@
   </a>
 </div>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Ha1seZz?theme=dark&font=Montserrat&ext=contest)
+<div align="center">
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/Ha1seZz/">
+    <img
+      src="https://leetcard.jacoblin.cool/Ha1seZz?theme=dark&font=Montserrat&ext=contest"
+      alt="LeetCode"
+  </a>
+
+  <!-- WakaTime -->
+  <a href="https://wakatime.com/@Ha1seZz">
+    <img
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=Ha1seZz&theme=transparent&layout=compact"
+      alt="WakaTime stats"
+    />
+  </a>
+</div>
 
 <div align="center">
   <!-- LeetCode Badge -->
@@ -45,15 +60,5 @@
        src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=Ha1seZz&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true"
        alt="GitHub streak stats"
      />
-  </a>
-</div>
-
-<!-- WakaTime Stats -->
-<div align="center">
-  <a href="https://wakatime.com/@Ha1seZz">
-    <img
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=Ha1seZz&theme=transparent&layout=compact"
-      alt="WakaTime stats"
-    />
   </a>
 </div>
