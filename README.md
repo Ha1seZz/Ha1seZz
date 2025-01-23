@@ -20,7 +20,7 @@
   <!-- Codewars Badge -->
   <a href="https://www.codewars.com/users/Ha1seZz">
     <img
-      src="https://www.codewars.com/users/Ha1seZz/badges/micro"
+      src="https://img.shields.io/badge/Codewars-000000?style=plastic&logo=Codewars&logoColor=white"
       alt="Codewars Badge"
     />
   </a>
@@ -30,7 +30,7 @@
   <!-- Telegram Badge -->
   <a href="https://t.me/Ha1seZz">
     <img
-      src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
+      src="https://img.shields.io/badge/Telegram-000000?style=plastic&logo=telegram&logoColor=white"
       alt="Telegram"
     />
   </a>
