@@ -31,7 +31,7 @@
     <img
       src="https://github-readme-stats.vercel.app/api/wakatime?username=Ha1seZz&theme=transparent&layout=compact"
       alt="Harlok's WakaTime stats"
-      style="width: 400px; height: auto;"
+      style="width: 400px; height: 400px;"
     />
   </a>
   
@@ -40,7 +40,7 @@
     <img
       src="https://github-readme-stats.vercel.app/api?username=Ha1seZz&theme=transparent"
       alt="Anurag's GitHub stats"
-      style="width: 400px; height: auto;"
+      style="width: 400px; height: 400px;"
     />
   </a>
 </div>
