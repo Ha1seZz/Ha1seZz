@@ -25,6 +25,16 @@
   </a>
 </div>
 
+<div align="center">
+  <!-- Telegram Badge -->
+  <a href="https://t.me/Ha1seZz">
+    <img
+      src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
+      alt="Telegram"
+    />
+  </a>
+</div>
+
 <!-- Streak stats -->
 <div align="center">
   <a href="https://github.com/Ha1seZz">
