@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/Ha1seZz/">
     <img src="https://leetcard.jacoblin.cool/Ha1seZz?theme=transparent&font=Montserrat&ext=contest&width=495&height=190" alt="LeetCode"/>
