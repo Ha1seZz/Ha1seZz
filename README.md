@@ -1,12 +1,7 @@
-<div align="center">
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/u/Ha1seZz/">
-    <img src="https://leetcard.jacoblin.cool/Ha1seZz?theme=transparent&font=Montserrat&ext=contest&width=495&height=190" alt="LeetCode"/>
-  </a>
-
-  <!-- WakaTime -->
-  [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Ha1seZz&theme=transparent&layout=compact)](https://wakatime.com/@Ha1seZz)
-</div>
+<!-- LeetCode -->
+[![LeetCode](https://leetcard.jacoblin.cool/Ha1seZz?theme=transparent&font=Montserrat&ext=contest)](https://leetcode.com/u/Ha1seZz/)
+<!-- WakaTime -->
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Ha1seZz&theme=transparent&layout=compact)](https://wakatime.com/@Ha1seZz)
 
 <!-- Profile views Badge -->
 <div align="center">
