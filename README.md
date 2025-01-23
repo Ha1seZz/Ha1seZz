@@ -19,7 +19,7 @@
   <!-- WakaTime -->
   <a href="https://wakatime.com/@Ha1seZz">
     <img
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=Ha1seZz&theme=transparent&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=Ha1seZz&theme=transparent&layout=compact&width=495"
       alt="WakaTime"
     />
   </a>
