@@ -8,6 +8,8 @@
   </a>
 </div>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ha1seZz?theme=dark&font=Montserrat&ext=contest)
+
 <div align="center">
   <!-- LeetCode Badge -->
   <a href="https://leetcode.com/Ha1seZz/">
