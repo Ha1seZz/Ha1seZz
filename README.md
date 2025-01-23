@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/Ha1seZz">
     <img
-      src="https://komarev.com/ghpvc/?username=Ha1seZz&style=plastic&color=000000"
+      src="https://komarev.com/ghpvc/?username=Ha1seZz&style=plastic&color=black"
       alt="Profite views Badge"
     />
   </a>
@@ -12,7 +12,7 @@
   <!-- LeetCode Badge -->
   <a href="https://leetcode.com/Ha1seZz/">
     <img
-      src="https://img.shields.io/badge/-LeetCode-000000?style=plastic&logo=LeetCode&logoColor=black"
+      src="https://img.shields.io/badge/-LeetCode-black?style=plastic&logo=LeetCode&logoColor=yellow"
       alt="LeetCode Badge"
     />
   </a>
@@ -20,7 +20,7 @@
   <!-- Codewars Badge -->
   <a href="https://www.codewars.com/users/Ha1seZz">
     <img
-      src="https://img.shields.io/badge/Codewars-000000?style=plastic&logo=Codewars&logoColor=white"
+      src="https://img.shields.io/badge/Codewars-black?style=plastic&logo=Codewars&logoColor=white"
       alt="Codewars Badge"
     />
   </a>
