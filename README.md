@@ -25,4 +25,22 @@
   </a>
 </div>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ha1seZz&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ha1seZz&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <!-- WakaTime Stats -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=Ha1seZz&theme=transparent&layout=compact"
+      alt="Harlok's WakaTime stats"
+      style="width: 400px; height: auto;"
+    />
+  </a>
+  
+  <!-- GitHub Stats -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Ha1seZz&theme=transparent"
+      alt="Anurag's GitHub stats"
+      style="width: 400px; height: auto;"
+    />
+  </a>
+</div>
