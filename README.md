@@ -20,7 +20,7 @@
   <a href="https://wakatime.com/@Ha1seZz">
     <img
       src="https://github-readme-stats.vercel.app/api/wakatime?username=Ha1seZz&theme=transparent&layout=compact"
-      alt="WakaTime stats"
+      alt="WakaTime"
     />
   </a>
 </div>
