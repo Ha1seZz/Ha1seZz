@@ -16,9 +16,7 @@
       alt="LeetCode Badge"
     />
   </a>
-</div>
-
-<div align="center">
+  
   <!-- Codewars Badge -->
   <a href="https://www.codewars.com/users/Ha1seZz">
     <img
