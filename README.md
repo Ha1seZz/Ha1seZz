@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ha1seZz&theme=dark)](https://git.io/streak-stats)
+[![codewars](https://www.codewars.com/users/Ha1seZz/badges/small)](https://www.codewars.com/users/Ha1seZz)
