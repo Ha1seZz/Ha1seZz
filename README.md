@@ -5,9 +5,7 @@
   </a>
 
   <!-- WakaTime -->
-  <a href="https://wakatime.com/@Ha1seZz">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ha1seZz&theme=transparent&layout=compact" alt="WakaTime"/>
-  </a>
+  [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Ha1seZz&theme=transparent&layout=compact)](https://wakatime.com/@Ha1seZz)
 </div>
 
 <!-- Profile views Badge -->
