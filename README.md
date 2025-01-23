@@ -14,8 +14,8 @@
     <img
       src="https://leetcard.jacoblin.cool/Ha1seZz?theme=dark&font=Montserrat&ext=contest"
       alt="LeetCode"
+    />
   </a>
-
   <!-- WakaTime -->
   <a href="https://wakatime.com/@Ha1seZz">
     <img
