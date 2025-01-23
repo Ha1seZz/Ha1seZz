@@ -1,4 +1,13 @@
 <div align="center">
+  <a href="https://github.com/Ha1seZz">
+    <img
+      src="https://komarev.com/ghpvc/?username=Ha1seZz"
+      alt="Profite views Badge"
+    />
+  </a>
+</div>
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=madushadhanushka.madushadhanushka)
+<div align="center">
   <!-- LeetCode Badge -->
   <a href="https://leetcode.com/Ha1seZz/">
     <img
@@ -17,7 +26,7 @@
 
 <!-- Streak stats -->
 <div align="center">
-  <a href="https://github.com/Ha1seZz#gh-dark-mode-only">
+  <a href="https://github.com/Ha1seZz">
     <img
        src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=Ha1seZz&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true"
        alt="GitHub streak stats"
@@ -34,5 +43,3 @@
     />
   </a>
 </div>
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5?si=71fa1a6094bd40c4)
