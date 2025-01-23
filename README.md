@@ -7,9 +7,9 @@
     />
   </a>
   <!-- Codewars Badge -->
-  <a href="https://www.codewars.com/users/Merabi007">
+  <a href="https://www.codewars.com/users/Ha1seZz">
     <img
-      src="https://www.codewars.com/users/Merabi007/badges/micro"
+      src="https://www.codewars.com/users/Ha1seZz/badges/micro"
       alt="Codewars Badge"
     />
   </a>
