@@ -16,6 +16,14 @@
       alt="LeetCode Badge"
     />
   </a>
+
+  <!-- WakaTime Badge -->
+  <a href="https://wakatime.com/@018d3f2d-d9e8-4362-80eb-920c6d7cdd95">
+    <img
+      src="https://wakatime.com/badge/user/018d3f2d-d9e8-4362-80eb-920c6d7cdd95.svg"
+      alt="Total time coded since Jan 25 2024"
+      />
+  </a>
   
   <!-- Codewars Badge -->
   <a href="https://www.codewars.com/users/Ha1seZz">
